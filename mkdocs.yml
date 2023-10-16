@@ -1,6 +1,7 @@
-site_name: Basic MkDocs Example Project
+site_name: Mosiwi
 theme:
   name: readthedocs
+  logo: web_logo/mosiwi_logo
   highlightjs: true
 plugins:
   - search
