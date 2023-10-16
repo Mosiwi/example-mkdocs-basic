@@ -2,7 +2,7 @@ site_name: Mosiwi
 theme:
   name: readthedocs
   highlightjs: true
-  logo: web_logo/mosiwi_logo.png
+  logo: mosiwi_logo.png
 plugins:
   - search
   - mkdocstrings:
