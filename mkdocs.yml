@@ -1,7 +1,7 @@
 site_name: Mosiwi
 theme:
   name: readthedocs
-  logo: web_logo/mosiwi_logo
+  logo: web_logo/mosiwi_logo.png
   highlightjs: true
 plugins:
   - search
